@@ -1,0 +1,10 @@
+{
+
+"commands-list-help": "/길드  <은행/채팅/목록/정보/pvp/전쟁/양도/땅/길드매니져/초대권한/신호기>",
+"commands-error": "알수없는 명령어입니다' /길드 도움말'을 쳐서 명령어를 확인해주세요",
+"Gbank-put": "",
+"Gbank-out": "",
+"Gchat-toggle-guild": "길드채팅으로 토글되었습니다",
+"Gchat-roggle-normal": "일반채팅으로 토글되었습니다",
+
+
