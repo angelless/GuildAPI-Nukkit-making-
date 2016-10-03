@@ -17,6 +17,7 @@ public class MyGuild extends PluginBase implements Listener {
 	
 	public void onload(){
 		this.getLogger().info(TextFormat.AQUA + "MyGuild플러그인이 정상적으로 로딩 완료했습니다");
+		this.getServer().getCommandMap().register("길드도움말",new GuildHelpCommand(this));
 	}
 	
 	// config저장
