@@ -2,6 +2,6 @@ package junee.Commands;
 
 import cn.nukkit.command.Command;
 
-class GuildManager extends Command{
+class newGuildManager extends Command{
   
 }
