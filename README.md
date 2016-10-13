@@ -1,3 +1,3 @@
-# MyGuild-Nukkit
-guild plugin for nukkit
+# GuildAPI-Nukkit
+guild plugin API for nukkit
 it is not completed plugin
