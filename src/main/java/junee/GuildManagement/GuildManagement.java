@@ -25,6 +25,8 @@ class GuildManagement extends PluginBase{
 		this.Guildname.put(this.Guildname, this.GuildMem.put(GuildMember, "GuildMember" ));
 		//todo put안에 Guildname을 자동으로 알아내게 하기	
     }
+		else{
+			
 		}
 	}
 }
